@@ -33,14 +33,7 @@
     {
       "Server": "https://xtreamhub.com/video/{TMDB}/",
       "Name": "Server 08"
-    },
-    {
-      "Server": "https://movies.pinoymovies.tv/video/{TMDB}",
-      "Name": "Server 09"
-    },
-    {
-      "Server": "https://beta.xtreamhub.com/video/{TMDB}",
-      "Name": "Server 10"
     }
+    
   ]
 }
