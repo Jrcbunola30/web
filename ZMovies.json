@@ -27,7 +27,7 @@
       "Name": "Server 06"
     },
     {
-      "Server": "https://astreamhub.com/video/{TMDB}/",
+      "Server": "https://vivamax.asia/embed/movie?id={TMDB}",
       "Name": "Server 07"
     },
     {
