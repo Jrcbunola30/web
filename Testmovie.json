@@ -1,13 +1,22 @@
 {
  "HELP_MSG": "",
+ "HELP_URL": "",
  "SERVERS": [
   {
-   "Server": "url1",
-   "Name": "SERVER 1"
+   "Server": "google.com",
+   "Name": "SERVER-01"
   },
   {
-   "Server": "url2",
-   "Name": "SERVER 2"
+   "Server": "google.com",
+   "Name": "SERVER-02"
+  },
+  {
+   "Server": "google.com",
+   "Name": "SERVER_03"
+  },
+  {
+   "Server": "google.com",
+   "Name": "SERVER-04"
   }
  ]
 }
