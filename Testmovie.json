@@ -1,0 +1,13 @@
+{
+ "HELP_MSG": "",
+ "SERVERS": [
+  {
+   "Server": "url1",
+   "Name": "SERVER 1"
+  },
+  {
+   "Server": "url2",
+   "Name": "SERVER 2"
+  }
+ ]
+}
