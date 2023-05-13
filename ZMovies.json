@@ -1,25 +1,25 @@
 {
  "HELP_MSG": "testing lang pare🤣🤣🤣🤣",
- "HELP_URL": "pornhub.com",
+ "HELP_URL": "https:\/\/pornhub.com",
  "API": "https:\/\/api.themoviedb.org\/3\/",
  "MaintenanceMoDE": "google.com",
  "VERSION_NAME": "2.9",
  "SERVERS": [
   {
    "Server": "https:\/\/www.2embed.to\/embed\/tmdb\/movie?id={TMDB}",
-   "Name": "SERVER-01"
+   "Name": "SERVER-01 Testing"
   },
   {
    "Server": "https:\/\/2embed.org\/embed\/movie?tmdb={TMDB}",
-   "Name": "SERVER-02"
+   "Name": "SERVER-02 Testing"
   },
   {
    "Server": "https:\/\/2embed.org\/se_player.php?video_id={IMDB}",
-   "Name": "SERVER-03"
+   "Name": "SERVER-03 Testing"
   },
   {
    "Server": "https:\/\/2embed.org\/pl.php\/player.php?id={TMDB}",
-   "Name": "SERVER-04"
+   "Name": "SERVER-04 Testing"
   },
   {
    "Server": "https:\/\/v2.vidsrc.me\/embed\/{IMDB}",
