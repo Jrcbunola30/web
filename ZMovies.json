@@ -31,7 +31,7 @@
   },
   {
    "Server": "https:\/\/vivamax.asia\/embed\/movie?id={TMDB}",
-   "Name": "SERVER-07"
+   "Name": "SERVER-07 Tagalog api"
   },
   {
    "Server": "https:\/\/xtreamhub.com\/video\/{TMDB}\/",
