@@ -5,5 +5,9 @@
 "AppId": "ca-app-pub-3940256099942544~3347511713",
 "BannerId": "ca-app-pub-3940256099942544/6300978111",
 "BannerId2": "ca-app-pub-3940256099942544/6300978111",
-"IntersId": "ca-app-pub-3940256099942544/1033173712"
+"IntersId": "ca-app-pub-3940256099942544/1033173712",
+"Server1": "api",
+"Server2": "api",
+"Server3": "api",
+"Server4": "api"
 }
