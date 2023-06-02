@@ -6,8 +6,8 @@
 "BannerId": "ca-app-pub-3940256099942544/6300978111",
 "BannerId2": "ca-app-pub-3940256099942544/6300978111",
 "IntersId": "ca-app-pub-3940256099942544/1033173712",
-"Server1": "api",
-"Server2": "api",
-"Server3": "api",
-"Server4": "api"
+"Server1": "https://xtreamhub.com/video/",
+"Server2": "https://vivamax.asia/embed/movie?id=",
+"Server3": "https://www.2embed.to/embed/tmdb/movie?id=",
+"Server4": "https://v2.vidsrc.me/embed/"
 }
