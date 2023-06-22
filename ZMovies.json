@@ -6,35 +6,35 @@
  "VERSION_NAME": "2.9",
  "SERVERS": [
   {
-   "Server": "https:\/\/www.2embed.to\/embed\/tmdb\/movie?id={TMDB}",
+   "Server": "https:\/\/www.2embed.to\/embed\/tmdb\/movie?id=",
    "Name": "SERVER-01"
   },
   {
-   "Server": "https:\/\/2embed.org\/embed\/movie?tmdb={TMDB}",
+   "Server": "https:\/\/2embed.org\/embed\/movie?tmdb=",
    "Name": "SERVER-02"
   },
   {
-   "Server": "https:\/\/2embed.org\/se_player.php?video_id={IMDB}",
+   "Server": "https:\/\/2embed.org\/se_player.php?video_id=",
    "Name": "SERVER-03"
   },
   {
-   "Server": "https:\/\/2embed.org\/pl.php\/player.php?id={TMDB}",
+   "Server": "https:\/\/2embed.org\/pl.php\/player.php?id=",
    "Name": "SERVER-04"
   },
   {
-   "Server": "https:\/\/v2.vidsrc.me\/embed\/{IMDB}",
+   "Server": "https:\/\/v2.vidsrc.me\/embed\/",
    "Name": "SERVER-05"
   },
   {
-   "Server": "https:\/\/databasegdriveplayer.xyz\/player.php?imdb={IMDB}",
+   "Server": "https:\/\/databasegdriveplayer.xyz\/player.php?imdb=",
    "Name": "SERVER-06"
   },
   {
-   "Server": "https:\/\/vivamax.asia\/embed\/movie?id={TMDB}",
+   "Server": "https:\/\/vivamax.asia\/embed\/movie?id=",
    "Name": "SERVER-07"
   },
   {
-   "Server": "https:\/\/xtreamhub.com\/video\/{TMDB}\/",
+   "Server": "https:\/\/xtreamhub.com\/video\/",
    "Name": "SERVER-08"
   }
  ]
