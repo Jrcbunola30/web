@@ -1,40 +1,40 @@
 {
  "HELP_MSG": "testing lang pare🤣🤣🤣🤣",
- "HELP_URL": "https://pornhub.com",
- "API": "https://api.themoviedb.org/3/",
+ "HELP_URL": "https:\/\/pornhub.com",
+ "API": "https:\/\/api.themoviedb.org\/3\/",
  "MaintenanceMoDE": "google.com",
  "VERSION_NAME": "2.9",
  "SERVERS": [
   {
-   "Server": "https://www.2embed.to/embed\/tmdb\/movie?id={TMDB}",
+   "Server": "https:\/\/www.2embed.to\/embed\/tmdb\/movie?id={TMDB}",
    "Name": "SERVER-01"
   },
   {
-   "Server": "https://2embed.org/embed/movie?tmdb={TMDB}",
+   "Server": "https:\/\/2embed.org\/embed\/movie?tmdb={TMDB}",
    "Name": "SERVER-02"
   },
   {
-   "Server": "https://2embed.org/se_player.php?video_id={TMDB}",
+   "Server": "https:\/\/2embed.org\/se_player.php?video_id={IMDB}",
    "Name": "SERVER-03"
   },
   {
-   "Server": "https://2embed.org/pl.php/player.php?id={TMDB}",
+   "Server": "https:\/\/2embed.org\/pl.php\/player.php?id={TMDB}",
    "Name": "SERVER-04"
   },
   {
-   "Server": "https://v2.vidsrc.me/embed/{TMDB}",
+   "Server": "https:\/\/vidsrc. me\/embed\/movie?imdb={IMDB}",
    "Name": "SERVER-05"
   },
   {
-   "Server": "https://databasegdriveplayer.xyz\/player.php?imdb={TMDB}",
+   "Server": "https:\/\/databasegdriveplayer.xyz\/player.php?imdb={IMDB}",
    "Name": "SERVER-06"
   },
   {
-   "Server": "https://vivamax.asia/embed/movie?id={TMDB}",
+   "Server": "https:\/\/vivamax.asia\/embed\/movie?id={TMDB}",
    "Name": "SERVER-07"
   },
   {
-   "Server": "https://xtreamhub.com/video/{TMDB}",
+   "Server": "https:\/\/xtreamhub.com\/video\/{TMDB}\/",
    "Name": "SERVER-08"
   }
  ]
