@@ -6,11 +6,11 @@
  "VERSION_NAME": "2.9",
  "SERVERS": [
   {
-   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id={TMDB}\/",
+   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id={TMDB}&tmdb=1\/",
    "Name": "SERVER-01"
   },
   {
-   "Server": "https:\/\/vidsrc. me\/embed\/movie?imdb={TMDB}\/",
+   "Server": "https:\/\/vidsrc.me\/embed\/movie?imdb={TMDB}\/",
    "Name": "SERVER-02"
   },
   {
