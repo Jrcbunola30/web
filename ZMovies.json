@@ -6,23 +6,23 @@
  "VERSION_NAME": "2.9",
  "SERVERS": [
   {
-   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id=MovieId\/",
+   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id=db2\/",
    "Name": "SERVER-01"
   },
   {
-   "Server": "https:\/\/vidsrc.me\/embed\/movie?tmdb=MovieId",
+   "Server": "https:\/\/vidsrc.me\/embed\/movie?tmdb=db1",
    "Name": "SERVER-02"
   },
   {
-   "Server": "https:\/\/databasegdriveplayer.xyz\/player.php?imdb=MovieId\/",
+   "Server": "https:\/\/databasegdriveplayer.xyz\/player.php?imdb=db1\/",
    "Name": "SERVER-03"
   },
   {
-   "Server": "https:\/\/vivamax.asia\/embed\/movie?id=MovieId\/",
+   "Server": "https:\/\/vivamax.asia\/embed\/movie?id=db1\/",
    "Name": "SERVER-04"
   },
   {
-   "Server": "https:\/\/xtreamhub.com\/video\/MovieId\/",
+   "Server": "https:\/\/xtreamhub.com\/video\/db1\/",
    "Name": "SERVER-05"
   }
  ]
