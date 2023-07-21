@@ -10,7 +10,7 @@
    "Name": "SERVER-01"
   },
   {
-   "Server": "https:\/\/vidsrc.me\/embed\/movie?tmdb=MovieId\/",
+   "Server": "https:\/\/vidsrc.me\/embed\/movie?tmdb=MovieId",
    "Name": "SERVER-02"
   },
   {
