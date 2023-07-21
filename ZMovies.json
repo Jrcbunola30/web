@@ -6,7 +6,7 @@
  "VERSION_NAME": "2.9",
  "SERVERS": [
   {
-   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id=db2\/",
+   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id=db2",
    "Name": "SERVER-01"
   },
   {
