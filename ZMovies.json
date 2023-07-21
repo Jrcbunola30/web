@@ -1,28 +1,28 @@
 {
- "HELP_MSG": "testing lang pare🤣🤣🤣🤣",
+ "HELP_MSG": "TEST TXT",
  "HELP_URL": "https:\/\/pornhub.com",
  "API": "https:\/\/api.themoviedb.org\/3\/",
  "MaintenanceMoDE": "google.com",
  "VERSION_NAME": "2.9",
  "SERVERS": [
   {
-   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id=&tmdb=1\/",
+   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id=MovieId\/",
    "Name": "SERVER-01"
   },
   {
-   "Server": "https:\/\/vidsrc.me\/embed\/movie?tmdb=\/",
+   "Server": "https:\/\/vidsrc.me\/embed\/movie?tmdb=MovieId\/",
    "Name": "SERVER-02"
   },
   {
-   "Server": "https:\/\/databasegdriveplayer.xyz\/player.php?imdb=\/",
+   "Server": "https:\/\/databasegdriveplayer.xyz\/player.php?imdb=MovieId\/",
    "Name": "SERVER-03"
   },
   {
-   "Server": "https:\/\/vivamax.asia\/embed\/movie?id=\/",
+   "Server": "https:\/\/vivamax.asia\/embed\/movie?id=MovieId\/",
    "Name": "SERVER-04"
   },
   {
-   "Server": "https:\/\/xtreamhub.com\/video\/",
+   "Server": "https:\/\/xtreamhub.com\/video\/MovieId\/",
    "Name": "SERVER-05"
   }
  ]
