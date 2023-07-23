@@ -24,6 +24,10 @@
   {
    "Server": "https:\/\/xtreamhub.com\/video\/db1\/",
    "Name": "SERVER-05"
+  },
+  {
+   "Server": "https:\/\/embed.smashystream.com\/playere.php?tmdb=db1",
+   "Name": "SERVER-06"
   }
  ]
 }
