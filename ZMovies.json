@@ -6,11 +6,11 @@
  "VERSION_NAME": "2.9",
  "SERVERS": [
   {
-   "Server": "http:\/\/login.web1337.net\/se_player.php?video_id=db2",
+   "Server": "aHR0cHM6Ly92aWRzcmMueHl6L2VtYmVkL21vdmllP3RtZGI9ZGIx",
    "Name": "SERVER-01"
   },
   {
-   "Server": "https:\/\/vidsrc.me\/embed\/movie?tmdb=db1",
+   "Server": "aHR0cHM6Ly9hdXRvZW1iZWQudG8vbW92aWUvdG1kYi9kYjE=",
    "Name": "SERVER-02"
   },
   {
